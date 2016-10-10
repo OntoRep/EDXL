@@ -24,7 +24,7 @@
   dc:modified "2016-04-27"^^xsd:date ;
   dc:title "EDXL Vocabulary"@en ;
   vann:preferredNamespacePrefix "edxl" ;
-  vann:preferredNamespaceUri <http://w3id.org/concorde/ontology/EDXL#> ;
+  vann:preferredNamespaceUri <https://raw.githubusercontent.com/OntoRep/EDXL/master/EDXL#> ;
   owl:versionInfo "v0.2" .
 
 
