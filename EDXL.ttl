@@ -15,7 +15,7 @@
 @prefix vs: <http://www.w3.org/2003/06/sw-vocab-status/ns#> . #Semantic web vocabulary status ontology
 @prefix void: <https://www.w3.org/TR/void/>. #Vocabulary of interelinked datasets 
 
-@prefix : <http://w3id.org/concorde/ontology/EDXL#> .     #Concorde EDXL namespace TBD in w3id
+@prefix : <https://raw.githubusercontent.com/OntoRep/EDXL/master/EDXL.ttlL#> .     #Concorde EDXL namespace TBD in w3id
 
 :EDXLVocabulary rdf:type voaf:Vocabulary, owl:Ontology;
   dc:creator <http://www.vtt.fi/JarmoKalaoja> ;
