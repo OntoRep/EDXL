@@ -57,9 +57,9 @@ Specialty services available on hospitals and their units contan a large number 
 These are needed in various SitRep report counts.
 ![Response resources](https://raw.githubusercontent.com/OntoRep/EDXL/master/ResponseResources.png)
 
-##Hospital beds
+##Hospital bed types
 Types of hospital beds used mainly in HospitalStatus.
-![Hospital bed types()
+![Hospital bed types(https://raw.githubusercontent.com/OntoRep/EDXL/master/HospitalBeds.png)
 
 ##Deployment
 ![Resource deployment](https://raw.githubusercontent.com/OntoRep/EDXL/master/DeploymentAndEquipmentCategories.png)
