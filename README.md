@@ -46,9 +46,21 @@ Sub categoires of injury events has not been defined in EDXL but a plan is to ad
 Main resource categoiries are shown in following diagram.
 ![Resource categories](https://raw.githubusercontent.com/OntoRep/EDXL/master/ResourceCategories.png)
 
-#Equipments and deployment
-![Resource deployment](https://raw.githubusercontent.com/OntoRep/EDXL/master/DeploymentAndEquipmentCategories.png)
+##Specialty services (in hospitals)
+Specialty services available on hospitals and their units contan a large number of concepts.
+![Specialty services](https://raw.githubusercontent.com/OntoRep/EDXL/master/SpecialtyServices.png)
 
+###Transport and trauma center
+![Transport and trauma]()
+
+##Response resources
+![Response resources]()
+
+##Hospital beds
+![Hospital bed types()
+
+##Deployment
+![Resource deployment](https://raw.githubusercontent.com/OntoRep/EDXL/master/DeploymentAndEquipmentCategories.png)
 
 #Status
 This is initial draft to be evaluated in COnCORDE project, and still under work.
