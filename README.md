@@ -14,6 +14,9 @@ Categories are modelled as OWL individuals. This allows to define relatinons suc
 
 ![Incident related categories](https://raw.githubusercontent.com/OntoRep/EDXL/master/IncidentRelatedCategories.png)
 
+##Incident types
+
+![Incident types](https://raw.githubusercontent.com/OntoRep/EDXL/master/IncidentRelatedCategories.png))
 
 
 ##Status
