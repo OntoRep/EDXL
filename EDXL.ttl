@@ -21,12 +21,11 @@
   dc:creator <http://www.vtt.fi/JarmoKalaoja> ;
   dc:description "This vocabulary contains concepts, report types, and categorizations derived from EDXL standard."@en ;
   dc:issued "2016-04-26"^^xsd:date ;
-  dc:modified "2016-04-27"^^xsd:date ;
+  dc:modified "2016-10-11"^^xsd:date ;
   dc:title "EDXL Vocabulary"@en ;
   vann:preferredNamespacePrefix "edxl" ;
   vann:preferredNamespaceUri <http://w3id.org/concorde/ontology/EDXL#> ;
   owl:versionInfo "v0.2" .
-
 
  #This vocabulary (not actually defined by EDXL) provides simple categorizations and their relations
 :Category a owl:Class;
