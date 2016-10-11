@@ -47,16 +47,18 @@ Main resource categoiries are shown in following diagram.
 ![Resource categories](https://raw.githubusercontent.com/OntoRep/EDXL/master/ResourceCategories.png)
 
 ##Specialty services (in hospitals)
-Specialty services available on hospitals and their units contan a large number of concepts.
+Specialty services available on hospitals and their units contan a large number of concepts used in HospitalStatus.
 ![Specialty services](https://raw.githubusercontent.com/OntoRep/EDXL/master/SpecialtyServices.png)
 
 ###Transport and trauma center
 ![Transport and trauma](https://raw.githubusercontent.com/OntoRep/EDXL/master/transportAndTraumacenter.png)
 
 ##Response resources
-![Response resources]()
+These are needed in various SitRep report counts.
+![Response resources](https://raw.githubusercontent.com/OntoRep/EDXL/master/ResponseResources.png)
 
 ##Hospital beds
+Types of hospital beds used mainly in HospitalStatus.
 ![Hospital bed types()
 
 ##Deployment
