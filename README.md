@@ -3,6 +3,11 @@ EDXL vocabulary developed in COnCORDE project.
 
 The Emergency Data Exchange Language (EDXL) is a broad initiative to create an integrated framework for a wide range of emergency data exchange standards to support operations, logistics, planning and finance. This vocabulary provides partial implementation of some of  its concepts modelled with RDF/Turtle.
 
+##Visualization of current status
+This document provides diagrams generated from Protege OntoGraph plug-in, those may not reflect the latest status of vocaubulary. A visualization of current snapshot of vocabulary can be found from:
+
+[WEBOWL online visualization of current snapshot of ontology.](http://vowl.visualdataweb.org/webvowl/#iri=https://raw.githubusercontent.com/OntoRep/EDXL/master/EDXL.ttl "WEBOWL visualization")
+
 ##EDXL Categories and categorizable entities
 EDXL vocabulary contains various categorizations based on EDXL standard.  These categories can be used by (Categorizable) data entities such as incidens and reports reports about them and link those to EDXL standard.
 
@@ -16,10 +21,6 @@ Categories are modelled as OWL individuals. This allows to define relations betw
 * Injuries that may be typical to victims of a specific incident category.
 
 ![Category relations](https://raw.githubusercontent.com/OntoRep/EDXL/master/CategoryRelations.png)
-
-#Visualizations
-
-[WEBOWL online visualization of current snapshot of ontology.](http://vowl.visualdataweb.org/webvowl/#iri=https://raw.githubusercontent.com/OntoRep/EDXL/master/EDXL.ttl "WEBOWL visualization")
 
 #Incident categories
 ![Incident related categories](https://raw.githubusercontent.com/OntoRep/EDXL/master/IncidentRelatedCategories.png)
