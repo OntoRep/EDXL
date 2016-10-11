@@ -51,7 +51,7 @@ Specialty services available on hospitals and their units contan a large number 
 ![Specialty services](https://raw.githubusercontent.com/OntoRep/EDXL/master/SpecialtyServices.png)
 
 ###Transport and trauma center
-![Transport and trauma]()
+![Transport and trauma](https://raw.githubusercontent.com/OntoRep/EDXL/master/transportAndTraumacenter.png)
 
 ##Response resources
 ![Response resources]()
