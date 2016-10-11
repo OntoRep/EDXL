@@ -8,7 +8,13 @@ EDXL vocabulary contains various categorizations based on EDXL standard.  These 
 
 ![Categorizable concepts](https://raw.githubusercontent.com/OntoRep/EDXL/master/CategorizableCategories.png)
 
-Categories are modelled as OWL individuals. This allows to define relatinons such as those defined by SKOS ontology between the categoies. OWL punning is used to define subclass hierarchies where metaclasses are also individuals. 
+Categories are modelled as OWL individuals. This allows to define relations between categoires including: 
+* SKOS broader or narrower relations between the categories. 
+* Keywords that help sarching information related to particular category.
+* Hazards that may result of specific category of incident.
+* Injuries that may be typical to victims of a specific incident category.
+
+![Category relations](https://raw.githubusercontent.com/OntoRep/EDXL/master/CategoryRelations.png)
 
 ##Incident categories
 
