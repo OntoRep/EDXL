@@ -46,23 +46,23 @@ Sub categoires of injury events has not been defined in EDXL but a plan is to ad
 Main resource categoiries are shown in following diagram.
 ![Resource categories](https://raw.githubusercontent.com/OntoRep/EDXL/master/ResourceCategories.png)
 
-##Specialty services (in hospitals)
-Specialty services available on hospitals and their units contan a large number of concepts used in HospitalStatus.
-![Specialty services](https://raw.githubusercontent.com/OntoRep/EDXL/master/SpecialtyServices.png)
-
-###Transport and trauma center
-![Transport and trauma](https://raw.githubusercontent.com/OntoRep/EDXL/master/transportAndTraumacenter.png)
-
 ##Response resources
 These are needed in various SitRep report counts.
 ![Response resources](https://raw.githubusercontent.com/OntoRep/EDXL/master/ResponseResources.png)
 
-##Hospital bed types
-Types of hospital beds used mainly in HospitalStatus.
-![Hospital bed types](https://raw.githubusercontent.com/OntoRep/EDXL/master/HospitalBeds.png)
-
-##Deployment
+##Deployment and equipment
 ![Resource deployment](https://raw.githubusercontent.com/OntoRep/EDXL/master/DeploymentAndEquipmentCategories.png)
+
+##Specialty services (in hospitals)
+Specialty services available on hospitals.
+![Specialty services](https://raw.githubusercontent.com/OntoRep/EDXL/master/SpecialtyServices.png)
+
+###Transport and trauma center 
+![Transport and trauma](https://raw.githubusercontent.com/OntoRep/EDXL/master/transportAndTraumacenter.png)
+
+##Hospital bed types
+Specfic types of hospital beds used mainly in HospitalStatus.
+![Hospital bed types](https://raw.githubusercontent.com/OntoRep/EDXL/master/HospitalBeds.png)
 
 #Status
 This is initial draft to be evaluated in COnCORDE project, and still under work.
