@@ -68,6 +68,12 @@
   rdfs:label "EDXLStandard"@en ;
   rdfs:comment "An EDXL related standard"@en;
   rdfs:isDefinedBy :EDXLVocabulary. 
+
+:Incident a owl:Class;
+  rdfs:label "Incident"@en ;
+  rdfs:comment "An incdent modelled with EDXL vocabulary."@en;
+  rdfs:subClassOf :Categorizable;  
+  rdfs:isDefinedBy :EDXLVocabulary. 
   
 :Report a owl:Class;
   rdfs:label "Report"@en ;
