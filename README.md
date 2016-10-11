@@ -59,7 +59,7 @@ These are needed in various SitRep report counts.
 
 ##Hospital bed types
 Types of hospital beds used mainly in HospitalStatus.
-![Hospital bed types(https://raw.githubusercontent.com/OntoRep/EDXL/master/HospitalBeds.png)
+![Hospital bed types](https://raw.githubusercontent.com/OntoRep/EDXL/master/HospitalBeds.png)
 
 ##Deployment
 ![Resource deployment](https://raw.githubusercontent.com/OntoRep/EDXL/master/DeploymentAndEquipmentCategories.png)
