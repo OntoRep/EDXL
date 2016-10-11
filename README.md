@@ -15,6 +15,7 @@ EDXL vocabulary contains various categorizations based on EDXL standard.  These 
 
 ##Reports 
 Main EDXL report categories have been defined but no constraints are set in vocabulary on what information should be included. 
+
 ![Report categories](https://raw.githubusercontent.com/OntoRep/EDXL/master/ReportCategories.png)
 
 ##Relations between categories
