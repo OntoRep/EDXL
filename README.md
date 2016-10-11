@@ -17,13 +17,13 @@ Categories are modelled as OWL individuals. This allows to define relations betw
 ![Category relations](https://raw.githubusercontent.com/OntoRep/EDXL/master/CategoryRelations.png)
 
 ##Incident categories
-
 ![Incident related categories](https://raw.githubusercontent.com/OntoRep/EDXL/master/IncidentRelatedCategories.png)
 
 ###Incident types
-
 ![Incident types](https://github.com/OntoRep/EDXL/blob/master/IncidentTypes.png)
 
+###Significant events
+![Significant events](https://raw.githubusercontent.com/OntoRep/EDXL/master/SignificantEventCategories.png)
 
 ##Status
 This is initial draft to be evaluated in COnCORDE project, and still under work.
