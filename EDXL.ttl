@@ -84,27 +84,29 @@
   
 :item a owl:ObjectProperty;
   rdfs:label "item"@en ;
-  rdfs:comment """Relates a report to a sub-item that can be any categorizable entity."""@en;
+  rdfs:comment """Relates a report to a sub-item that can be any categorizable entity. 
+           For example a sitrep has specific counts of resources by an organization"""@en;
   rdfs:domain :Report;
   rdfs:range :Categorizable; 
   rdfs:isDefinedBy :EDXLVocabulary.      
   
 :Count a owl:Class;
   rdfs:label "Count"@en ;
-  rdfs:comment """A count of individuals with a specific category. The category counted is given with hasCategory property. """@en;
+  rdfs:comment """A report counting ndividuals with a specific category. The category counted is given with hasCategory property. """@en;
   rdfs:subClassOf :Report;
   rdfs:isDefinedBy :EDXLVocabulary.      
   
 :reports a owl:ObjectProperty;
   rdfs:label "reports"@en ;
-  rdfs:comment """Relates the report to some categorizable entity."""@en;
+  rdfs:comment """Relates the report to some categorizable entity. 
+             For example a Count reports items of specific category provided by an organization"""@en;
   rdfs:domain :Count;
   rdfs:range :Categorizable; 
   rdfs:isDefinedBy :EDXLVocabulary.  
   
 :hasReport a owl:ObjectProperty;
   rdfs:label "hasReport"@en ;
-  rdfs:comment """Relates the entity into a report."""@en;
+  rdfs:comment """Relates the entity into a report. For example an hospital to counts of its resources."""@en;
   rdfs:domain :Categorizable;
   rdfs:range :Count; 
   rdfs:isDefinedBy :EDXLVocabulary.    
