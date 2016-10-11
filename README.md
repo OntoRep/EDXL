@@ -40,7 +40,15 @@ Categories are modelled as OWL individuals. This allows to define relations betw
 ![Infrastructure affected](https://github.com/OntoRep/EDXL/blob/master/InfrastructureAffected.png)
 
 ##Injury events
-Sub categoires of injury events has not defined in EDXL but a plan is to add sub-categories so that typical injuries related to incident types can be modelled.
+Sub categoires of injury events has not been defined in EDXL but a plan is to add sub-categories so that typical injuries related to incident types can be modelled.
+
+#Resource categories
+Main resource categoiries are shown in following diagram.
+![Resource categories](https://raw.githubusercontent.com/OntoRep/EDXL/master/ResourceCategories.png)
+
+#Equipments and deployment
+![Resource deployment](https://raw.githubusercontent.com/OntoRep/EDXL/master/DeploymentAndEquipmentCategories.png)
+
 
 #Status
 This is initial draft to be evaluated in COnCORDE project, and still under work.
