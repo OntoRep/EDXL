@@ -13,6 +13,10 @@ EDXL vocabulary contains various categorizations based on EDXL standard.  These 
 
 ![Categorizable concepts](https://raw.githubusercontent.com/OntoRep/EDXL/master/CategorizableCategories.png)
 
+##Reports 
+Main EDXL report categories have been defined but no constraints are set in vocabulary on what information should be included. 
+![Report categories](https://raw.githubusercontent.com/OntoRep/EDXL/master/ReportCategories.png)
+
 ##Relations between categories
 Categories are modelled as OWL individuals. This allows to define relations between categoires including: 
 * SKOS broader or narrower relations between the categories. 
