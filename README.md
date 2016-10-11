@@ -6,7 +6,7 @@ The Emergency Data Exchange Language (EDXL) is a broad initiative to create an i
 #EDXL Categories
 EDXL vocabulary contains various categorizations based on EDXL standard.  These categories can be used to create data entities and link to EDXL standard.
 
-![Categoriszable concepts](https://raw.githubusercontent.com/OntoRep/EDXL/master/Categorizable.png)
+![Categoriszable concepts](https://raw.githubusercontent.com/OntoRep/EDXL/master/CategorizableCategories.png)
 
 
 ##Incident categories
