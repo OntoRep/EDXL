@@ -31,6 +31,12 @@ Categories are modelled as OWL individuals. This allows to define relations betw
 ##Significant events
 ![Significant events](https://raw.githubusercontent.com/OntoRep/EDXL/master/SignificantEventCategories.png)
 
+##Infrastructure affected
+![Infrastructure affected](https://github.com/OntoRep/EDXL/blob/master/InfrastructureAffected.png)
+
+##Injury events
+Sub categoires of injury events has not defined in EDXL but a plan is to add sub-categories so that typical injuries related to incident types can be modelled.
+
 #Status
 This is initial draft to be evaluated in COnCORDE project, and still under work.
 
